@@ -25,7 +25,7 @@ Two airfoil geometries, designed in CATIA V5, were compared under identical flow
 - **Mesh:** Polyhedral, 83,368 cells (identical setup for both cases), cylindrical refinement region + prism-layer near-wall treatment
 - **Convergence:** Residuals reached 1×10⁻⁸ after ~150 iterations, 380 total iterations run
 
-![Computational domain — virtual wind tunnel](./images/fig2-domain.png)
+![Computational domain — virtual wind tunnel](https://github.com/Yanis-Boutabia/Trailing-Edge-Serration-CFD-Study-Cambered-Airfoil-Aerodynamics/blob/2aaf9c359de3359c6789acae78caa9f623dbb9fa/Domain%20Tunnel.png)
 *Figure 2 — Domain tunnel*
 
 ![Mesh overview and detail](./images/fig3-mesh.png)
