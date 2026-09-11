@@ -28,7 +28,7 @@ Two airfoil geometries, designed in CATIA V5, were compared under identical flow
 ![Computational domain — virtual wind tunnel](https://github.com/Yanis-Boutabia/Trailing-Edge-Serration-CFD-Study-Cambered-Airfoil-Aerodynamics/blob/2aaf9c359de3359c6789acae78caa9f623dbb9fa/Domain%20Tunnel.png)
 *Figure 2 — Domain tunnel*
 
-![Mesh overview and detail](./images/fig3-mesh.png)
+![Mesh overview and detail](https://github.com/Yanis-Boutabia/Trailing-Edge-Serration-CFD-Study-Cambered-Airfoil-Aerodynamics/blob/7b539d68c648a7109590f21202109d8e3f30fd3e/Mesh_overview.png)
 *Figure 3 — Mesh overview and zoom detail for both cases*
 
 ## Results
