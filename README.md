@@ -48,7 +48,7 @@ The 9-serration geometry fragments the trailing-edge pressure gradient, reducing
 ![Pressure contour for both cases](https://github.com/Yanis-Boutabia/Trailing-Edge-Serration-CFD-Study-Cambered-Airfoil-Aerodynamics/blob/2865d0a46c77951069c0a201cb4e209ce747e263/pressure_contour.png)
 *Case A shows a more pronounced suction peak on the upper surface, consistent with its higher CL*
 
-![Velocity field for both cases](./images/fig11-velocity-field.png)
+![Velocity field for both cases](https://github.com/Yanis-Boutabia/Trailing-Edge-Serration-CFD-Study-Cambered-Airfoil-Aerodynamics/blob/ceb1557b6a6efc66ea085295c80362f00e6f072a/Velocity_Field.png)
 *Case A generates a more fragmented, distributed wake; Case B produces a more compact, coherent wake*
 
 ![Vorticity field — Case A (9 serrations)](./images/fig13-vorticity-caseA.png)
