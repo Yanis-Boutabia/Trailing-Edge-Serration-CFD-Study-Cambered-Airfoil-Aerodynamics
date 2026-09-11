@@ -12,7 +12,7 @@ Two airfoil geometries, designed in CATIA V5, were compared under identical flow
 
 **Key result: Case A (9 serrations) delivers a +13.3% lift gain over Case B for a virtually unchanged drag (≈0.2% difference), yielding a +13.1% improvement in lift-to-drag ratio (L/D).**
 
-![CATIA V5 geometry for both cases](./images/fig1-catia-parts.png)
+![CATIA V5 geometry for both cases](https://github.com/Yanis-Boutabia/Trailing-Edge-Serration-CFD-Study-Cambered-Airfoil-Aerodynamics/blob/daf777b9bebf0fbdc2b11d802a2db77b586ea71c/Part%20for%20both%20cases.png)
 *Figure 1 — CATIA V5 part for both cases*
 
 ## Methodology
