@@ -54,7 +54,7 @@ The 9-serration geometry fragments the trailing-edge pressure gradient, reducing
 ![Vorticity field — Case A (9 serrations)](https://github.com/Yanis-Boutabia/Trailing-Edge-Serration-CFD-Study-Cambered-Airfoil-Aerodynamics/blob/3b1edbd1b543c882026571cdf2d746d0fb0e3643/Vorticity%20Field%20Case%20A.png)
 *Case A — max vorticity ≈ 984 s⁻¹, extended rotational region along the suction side*
 
-![Vorticity field — Case B (7 serrations)](./images/fig14-vorticity-caseB.png)
+![Vorticity field — Case B (7 serrations)](https://github.com/Yanis-Boutabia/Trailing-Edge-Serration-CFD-Study-Cambered-Airfoil-Aerodynamics/blob/69456d22456a1e7b2c8fe4c24341f08e89fe3178/Vorticity%20Field%20Case%20b.png)
 *Case B — max vorticity ≈ 885 s⁻¹, more concentrated and compact wake*
 
 ## Limitations
