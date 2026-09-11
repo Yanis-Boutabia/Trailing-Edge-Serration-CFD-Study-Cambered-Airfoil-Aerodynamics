@@ -45,7 +45,7 @@ The 9-serration geometry fragments the trailing-edge pressure gradient, reducing
 
 ### Flow field visualization
 
-![Pressure contour for both cases](./images/fig9-pressure-contour.png)
+![Pressure contour for both cases](https://github.com/Yanis-Boutabia/Trailing-Edge-Serration-CFD-Study-Cambered-Airfoil-Aerodynamics/blob/2865d0a46c77951069c0a201cb4e209ce747e263/pressure_contour.png)
 *Case A shows a more pronounced suction peak on the upper surface, consistent with its higher CL*
 
 ![Velocity field for both cases](./images/fig11-velocity-field.png)
