@@ -51,7 +51,7 @@ The 9-serration geometry fragments the trailing-edge pressure gradient, reducing
 ![Velocity field for both cases](https://github.com/Yanis-Boutabia/Trailing-Edge-Serration-CFD-Study-Cambered-Airfoil-Aerodynamics/blob/ceb1557b6a6efc66ea085295c80362f00e6f072a/Velocity_Field.png)
 *Case A generates a more fragmented, distributed wake; Case B produces a more compact, coherent wake*
 
-![Vorticity field — Case A (9 serrations)](./images/fig13-vorticity-caseA.png)
+![Vorticity field — Case A (9 serrations)](https://github.com/Yanis-Boutabia/Trailing-Edge-Serration-CFD-Study-Cambered-Airfoil-Aerodynamics/blob/3b1edbd1b543c882026571cdf2d746d0fb0e3643/Vorticity%20Field%20Case%20A.png)
 *Case A — max vorticity ≈ 984 s⁻¹, extended rotational region along the suction side*
 
 ![Vorticity field — Case B (7 serrations)](./images/fig14-vorticity-caseB.png)
